@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/qr-code-component-z-fTE7-uPm)
 - Live Site URL: [here](https://ughvop.github.io/qr-code-component-main/)
 
 
